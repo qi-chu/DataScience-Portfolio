@@ -8,7 +8,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 ## Contents
 - ### Machine Learning
 
-	- Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- Predicting Customer Clicking Behavior: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
 	- Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
@@ -33,9 +33,6 @@ Tools: NLTK, scikit
 	  -  [Marketing Analytics](https://rsm-compute-01.ucsd.edu/user/qchu/files/winter2022/MGTA%20455/rsm-mgta455-pentathlon-2/pentathlon-2.html?_xsrf=2%7Cd172386e%7C88f919e4afac110d5bf7a4be25e1b14f%7C1641251664) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
 	  -  [Titanic Dataset]() - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
-	- Stock Market Analysis for Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-	- 2016 US General Election Poll Data Analysis: Very simple analysis of 2016 US General Election Poll data.
-	- 911 Calls - Exploratory Analysis: Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different  variables.
 Tools: Pandas,Numpy,Seaborn and Matplotlib
 
 #### R
