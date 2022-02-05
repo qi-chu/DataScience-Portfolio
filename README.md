@@ -21,17 +21,14 @@ Deep Learning: Digit Sequence Recognition using CNNs: Designing and implementing
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
 ### Natural Language Processing
-3-way Sentiment Analysis for Tweets: 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
-
-Cross language Information Retrieval: Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+[3-way Sentiment Analysis for Tweets](https://github.com/qi-chu/DataScience-Portfolio/blob/main/text_process-gitlab.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets.
 
 Tools: NLTK, scikit
 
 - ### Data Analysis and Visualisation
-	- __Python_
-	  -  [Customer Analytics](https://rsm-compute-01.ucsd.edu/user/qchu/files/winter2022/MGTA%20455/rsm-mgta455-pentathlon-2/pentathlon-2.html?_xsrf=2%7Cd172386e%7C88f919e4afac110d5bf7a4be25e1b14f%7C1641251664) : Analysis of Customer Lifetime Value based on different time horizon of experiment.
-	  -  [Marketing Analytics](https://rsm-compute-01.ucsd.edu/user/qchu/files/winter2022/MGTA%20455/rsm-mgta455-pentathlon-2/pentathlon-2.html?_xsrf=2%7Cd172386e%7C88f919e4afac110d5bf7a4be25e1b14f%7C1641251664) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
-	  -  [Titanic Dataset]() - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+	- Python
+	  -  [Customer Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/pentathlon_gitlab.ipynb) : Analysis of Customer Lifetime Value based on different time horizon of experiment.
+	  -  [Marketing Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tuango.ipynb) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
 
 Tools: Pandas,Numpy,Seaborn and Matplotlib
 
