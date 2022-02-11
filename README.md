@@ -26,6 +26,7 @@ Tools: NLTK, scikit
 
 - ### Data Analysis and Visualisation
 [Customer Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/pentathlon_gitlab.ipynb) : Analysis of Customer Lifetime Value based on different time horizon of experiment.
+
 [Marketing Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tuango.ipynb) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
 
 Tools: Pandas,Numpy,Seaborn and Matplotlib
