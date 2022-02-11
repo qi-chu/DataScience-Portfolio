@@ -7,13 +7,13 @@ Note: Data used in the projects is for demonstration purposes only.
 ## Contents
 - ### Machine Learning
 
-	- [Predicting Customer Clicking Behavior](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tz-gaming-github.ipynb): Use Logistic Regression to predict whether an internet user clicked an ad.
+[Predicting Customer Clicking Behavior](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tz-gaming-github.ipynb): Use Logistic Regression to predict whether an internet user clicked an ad.
 
-	- Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
-	- Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
-	- Reinforcement Learning: Training a Smartcab to Drive: Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
+Reinforcement Learning: Training a Smartcab to Drive: Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
 
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
@@ -25,9 +25,8 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 Tools: NLTK, scikit
 
 - ### Data Analysis and Visualisation
-	- Python
-	  -  [Customer Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/pentathlon_gitlab.ipynb) : Analysis of Customer Lifetime Value based on different time horizon of experiment.
-	  -  [Marketing Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tuango.ipynb) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
+[Customer Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/pentathlon_gitlab.ipynb) : Analysis of Customer Lifetime Value based on different time horizon of experiment.
+[Marketing Analytics](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tuango.ipynb) : Analysis of marketing plan based on Customer Lifetime Value based on different time horizon of experiment.
 
 Tools: Pandas,Numpy,Seaborn and Matplotlib
 
