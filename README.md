@@ -9,10 +9,9 @@ Note: Data used in the projects is for demonstration purposes only.
 
 [Predicting Customer Clicking Behavior](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tz-gaming-github.ipynb): Use Logistic Regression to predict whether an internet user clicked an ad.
 
-[Supervised Learning](https://github.com/qi-chu/DataScience-Portfolio/blob/main/intuit.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual will upgrade the software, to identify possible customers for intuit.
+[Supervised Learning](https://github.com/qi-chu/DataScience-Portfolio/blob/main/intuit.ipynb): Performed Exploratory data analysis and tested out several different supervised learning algorithms to build a model that accurately predicts whether an individual will upgrade the software, to identify possible customers for intuit.
 
-Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
-
+[Recommender system](https://github.com/qi-chu/DataScience-Portfolio/blob/main/CSE%20258%20final%20project.pdf): Constructed and applied several unsupervised as well as supervised learning (Logistic Regression,Random Forest,Bayesian Personalized Ranking,Markov Chain) based on 1 million user item interaction data and provide customized recommendation.
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
 - ### Natural Language Processing
@@ -29,6 +28,8 @@ Tools: NLTK, scikit
 
 Tools: Pandas,Numpy,Seaborn and Matplotlib
 
+- ### Data Manipulation
+
 
 ### Micro Projects:
 #### Python
@@ -36,10 +37,10 @@ Tools: Pandas,Numpy,Seaborn and Matplotlib
 - ML with Decision Trees and Random Forests: Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 - Recipe Recommendations using Recommender Systems: A micro project to build a recommendation system that makes Recipe recommendations based on user history
 
-#### R
+<!-- #### R
 
 ML Logistic Regression: Predicting salary class of a person using logistic regression.
 ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
-
+ -->
 
 Thank you for reading ❤️! 
