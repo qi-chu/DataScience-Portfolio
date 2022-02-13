@@ -9,11 +9,9 @@ Note: Data used in the projects is for demonstration purposes only.
 
 [Predicting Customer Clicking Behavior](https://github.com/qi-chu/DataScience-Portfolio/blob/main/tz-gaming-github.ipynb): Use Logistic Regression to predict whether an internet user clicked an ad.
 
-Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+[Supervised Learning](https://github.com/qi-chu/DataScience-Portfolio/blob/main/intuit.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual will upgrade the software, to identify possible customers for intuit.
 
 Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
-
-Reinforcement Learning: Training a Smartcab to Drive: Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
 
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
