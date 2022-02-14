@@ -29,7 +29,7 @@ Tools: NLTK, scikit
 Tools: Pandas,Numpy,Seaborn and Matplotlib
 
 - ### Data Manipulation
-
+[Assemble Dataset](https://github.com/qi-chu/DataScience-Portfolio/blob/main/recreate-dataset-gitlab.ipynb) : Assembled a commercial transaction data from nultiple data sources.
 
 ### Micro Projects:
 #### Python
