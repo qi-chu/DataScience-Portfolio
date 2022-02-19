@@ -11,7 +11,12 @@ Note: Data used in the projects is for demonstration purposes only.
 
 [Supervised Learning](https://github.com/qi-chu/DataScience-Portfolio/blob/main/intuit.ipynb): Performed Exploratory data analysis and tested out several different supervised learning algorithms to build a model that accurately predicts whether an individual will upgrade the software, to identify possible customers for intuit.
 
-[Recommender system](https://github.com/qi-chu/DataScience-Portfolio/blob/main/CSE%20258%20final%20project.pdf): Constructed and applied several unsupervised as well as supervised learning (Logistic Regression,Random Forest,Bayesian Personalized Ranking,Markov Chain) based on 1 million user item interaction data and provide customized recommendation.
+
+[Maximize Campaign profit via supervised learning](https://github.com/qi-chu/DataScience-Portfolio/blob/main/CSE%20258%20final%20project.pdf): Constructed supervised learning models (Logistic Regression,Random Forest,GBDT, sklearn NN, Keras NN) to predict customer behaviors.
+
+[Recommender system](https://github.com/qi-chu/DataScience-Portfolio/blob/main/intuit-redux.ipynb): Constructed and applied several unsupervised as well as supervised learning (Logistic Regression,Random Forest,Bayesian Personalized Ranking,Markov Chain) based on 1 million user item interaction data and provide customized recommendation.
+
+
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
 - ### Natural Language Processing
