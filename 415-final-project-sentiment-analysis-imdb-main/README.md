@@ -1,4 +1,4 @@
-#sentiment-analysis-IMDB
+# sentiment-analysis-IMDB
 
 ### Dataset Location
 https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz 
