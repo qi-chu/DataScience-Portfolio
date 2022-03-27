@@ -19,10 +19,13 @@ Note: Data used in the projects is for demonstration purposes only.
 
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
-- ### Natural Language Processing
+- ### Text Analysis
 [3-way Sentiment Analysis for Tweets](https://github.com/qi-chu/DataScience-Portfolio/blob/main/text_process-gitlab.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets.
 
 [Text Mining](https://github.com/qi-chu/DataScience-Portfolio/blob/main/text_process-gitlab.ipynb): Perform text mining using unigram ,bigrams and FPMC model.
+
+[Sentiment analysis on IMDB review](https://github.com/qi-chu/DataScience-Portfolio/tree/main/415-final-project-sentiment-analysis-imdb-main): Constructed a binary predictive model based on Term-frequency: Bi_TF_TFIDF, Embedding: Word2Vec and Part-of-speech: POS-TermFreq based feature as well as BERT language model.
+
 
 Tools: NLTK, scikit
 
