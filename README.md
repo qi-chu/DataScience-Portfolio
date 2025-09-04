@@ -51,4 +51,4 @@ ML Logistic Regression: Predicting salary class of a person using logistic regre
 ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
  -->
 
-Thank you for reading!! Please don't hesitate to reach out through qchu@ucsd.edu if want to know more about my background/projects! 
+Thank you for reading!! Please don't hesitate to reach out through dorachu22@gmail.com if want to know more about my background/projects! 
